@@ -6,7 +6,7 @@ namespace Program_Test {
 
             Console.WriteLine("Olá Mundo!");
             Console.WriteLine("Bem-Vindo!");
-            Console.WriteLine("Vamos aprender c#");
+            Console.WriteLine("Programação OO C#");
         }
     }
 }
